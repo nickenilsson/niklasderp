@@ -1,0 +1,8 @@
+setup.py
+derp.egg-info/PKG-INFO
+derp.egg-info/SOURCES.txt
+derp.egg-info/dependency_links.txt
+derp.egg-info/pbr.json
+derp.egg-info/top_level.txt
+derpackage/__init__.py
+derpackage/derps.py

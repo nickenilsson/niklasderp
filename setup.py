@@ -5,5 +5,4 @@ setup(
 	version='0.1dev',
 	packages=['derpackage'],
 	install_requires=[]
-
 )
